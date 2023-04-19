@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 def plot_acc_loss3(q_history, x_history, v_history):
 
     plt.figure()
